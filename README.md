@@ -1,2 +1,7 @@
 ![CI](https://github.com/freepad/otus-qajs-api-ui/actions/workflows/playwright.yml/badge.svg)
-[https://freepad.github.io/otus-qajs-api-ui/](Отчёты)
+
+[Отчёты](https://freepad.github.io/otus-qajs-api-ui/)
+
+[Отчёт Jest](https://freepad.github.io/otus-qajs-api-ui/jest)
+
+[Отчёт Playwright](https://freepad.github.io/otus-qajs-api-ui/playwright)
